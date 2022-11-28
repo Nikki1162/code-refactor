@@ -1,7 +1,7 @@
 # code-refactor-challenge
 
 ## **What?**
- A repository created to host worker the first challenge of bootcamp, whereby we refactor code for a website to make it more accessible.
+ A repository created to host work for the first challenge of bootcamp, whereby we refactor code for a website to make it more accessible.
 
 ## **Why?**
 The motivation behind improving accessibility was to enable users with disabilities to access the site, which will in turn benefit those who aren't proficient in the subject matter, or those who are not fluent in English.
@@ -11,7 +11,7 @@ The starter code was given to us with various accessibility issues which I resol
 
 I then checked that the HTML elements followed a logical structure, and changed the footer h2 to a h4 to keep them in sequential order. I also moved the footer out of the body of the text.
 
-After this, I added alt attributes to all images on the page to make certain that screen readers can access the images on the site. This has the added benefit of improving the site's SEO rankings. As I could not add an alt attribute to the site's hero image (due to it being places on the CSS stylesheet), I changed the file name to include more description. I also added some further detail to the page's title element.
+After this, I added alt attributes to all images on the page to make certain that screen readers can access the images on the site. This has the added benefit of improving the site's SEO rankings. As I could not add an alt attribute to the site's hero image (due to it being placed on the CSS stylesheet), I changed the file name to include more description. I also added some further detail to the page's title element.
 
 Finally, I condensed the CSS selectors where possible, so that the code was a little cleaner and took up less space. I also added comments within the stylesheet wherever I had made a change.
 
